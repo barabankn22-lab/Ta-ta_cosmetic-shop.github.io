@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<title>Chanel Coco Mademoiselle</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<nav class="menu"><a href="../index.html">Головна</a></nav>
+<h2>Chanel Coco Mademoiselle</h2>
+<p><b>Бренд:</b> Chanel</p>
+<p><b>Опис:</b> Іконічний парфум для сучасної, впевненої жінки. Яскравий старт соковитої апельсинової свіжості перетікає в серце з елегантних троянд і жасмину. Основа - теплий, чуттєвий шлейф пачулі, ветівера та ванілі. Суміш зухвалості та вишуканості. Аромат для тих, хто творить свої правила.</p>
+<p><b>Ціна:</b> 3600 грн</p>
+<p><b>Рейтинг:</b> ★★★★☆</p>
+<button>Замовити</button>
+<h3>Відгуки</h3>
+<div class="review">Олена: Приємний аромат.</div>
+<div class="review">Петро: Жінці сподобалось.</div>
+</body>
+</html>
