@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Netlify
+.netlify/
+
+# Build directories
+/build/
+/dist/
+
+# Logs
+logs/
+data.json
+npm-debug.log*
