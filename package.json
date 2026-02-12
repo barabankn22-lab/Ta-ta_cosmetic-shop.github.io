@@ -1,0 +1,1 @@
+{\n  "name": "ta-ta-cosmetic-shop",\n  "version": "1.0.0",\n  "description": "A cosmetic shop website",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "author": "barabankn22-lab",\n  "license": "ISC",\n  "dependencies": {\n    "express": "^4.17.1",\n    "body-parser": "^1.19.0"\n  }\n}
